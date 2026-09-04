@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./kakam-kluivert-banner.png" width="100%" alt="Kakam Kluivert - Aircraft Sales & Leasing Professional">
+
+</div>
+
+<br>
 Kakam Kluivert
 Aircraft Sales & Leasing Professional | Digital Marketing Strategist
 Aviation-focused digital marketing and aircraft sourcing professional connecting commercial aircraft opportunities with qualified buyers, sellers, lessors, and lessees.
