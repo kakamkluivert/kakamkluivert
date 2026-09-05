@@ -71,7 +71,7 @@ This experience gave me a strong foundation in:
 
 <td width="40%" valign="top">
 
-### ✈️ My Journey
+###  My Journey
 
 **Digital Marketing**  
 ↓  
@@ -96,15 +96,91 @@ Today, my work focuses on:
 > **Aircraft Sales · Acquisition · Leasing · Aircraft Sourcing · Targeted Aviation Marketing**
 
 ---
-What I Do
-Aircraft Sales & Acquisition
-Aircraft Leasing
-Aircraft Opportunity Sourcing
-Targeted Aviation Marketing
-Buyer & Seller Networking
-Aviation Market Research
-Business Development
-Confidential Aircraft Marketing
+## What I Do
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+###  Aircraft Sales & Acquisition
+
+Connecting qualified aircraft buyers with suitable aircraft opportunities while helping sellers reach relevant market participants.
+
+</td>
+
+<td width="50%" valign="top">
+
+###  Aircraft Leasing
+
+Supporting airlines, operators and aviation companies in identifying suitable leasing opportunities and potential lessors.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+###  Aircraft Opportunity Sourcing
+
+Researching the market to identify aircraft that match specific acquisition, leasing or fleet requirements.
+
+</td>
+
+<td width="50%" valign="top">
+
+###  Targeted Aviation Marketing
+
+Using digital marketing, targeted outreach and industry relationships to put aircraft opportunities in front of relevant decision-makers.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+###  Buyer & Seller Networking
+
+Building connections between aircraft owners, sellers, buyers, lessors, lessees, airlines and aviation investment companies.
+
+</td>
+
+<td width="50%" valign="top">
+
+###  Aviation Market Research
+
+Monitoring aircraft availability, market developments, fleet strategies and commercial aviation opportunities.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+###  Business Development
+
+Identifying potential partnerships and commercial opportunities across the aviation ecosystem.
+
+</td>
+
+<td width="50%" valign="top">
+
+###  Confidential Aircraft Marketing
+
+Supporting discreet aircraft marketing where owners or lessors prefer targeted exposure rather than broad public advertising.
+
+</td>
+
+</tr>
+</table>
+
+---
 My Approach to Aircraft Marketing
 I take a different approach to marketing aircraft.
 
