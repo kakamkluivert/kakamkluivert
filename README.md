@@ -53,17 +53,49 @@ sellers, lessors, and lessees.
 
 ---
 
-About Me
-I am an Aircraft Sales & Leasing Professional with a professional background in digital marketing strategy and advertising, specializing my marketing expertise in the aviation industry.
+## About Me
 
-My professional journey began in digital marketing, where I worked as a freelancer on platforms such as Fiverr and Upwork, providing digital marketing and advertising services to businesses. This experience gave me a strong foundation in marketing strategy, audience targeting, advertising, content creation, copywriting, and lead generation.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-My transition into aviation began after completing a certification program in aircraft design, where I developed a foundational understanding of aircraft design and the technical principles behind aircraft.
+I am an **Aircraft Sales & Leasing Professional** with a professional background in **digital marketing strategy and advertising**, specializing my marketing expertise in the aviation industry.
 
-I subsequently focused my professional career on the commercial aircraft sales and leasing market, where I have spent approximately five years developing industry relationships, researching aircraft opportunities, and building a network across both sides of the market.
+My professional journey began in digital marketing, where I worked as a freelancer on platforms such as **Fiverr and Upwork**, providing digital marketing and advertising services to businesses.
 
-Today, my work focuses on aircraft sales, acquisition, leasing, aircraft sourcing, and targeted aviation marketing.
+This experience gave me a strong foundation in:
 
+**Marketing Strategy · Audience Targeting · Advertising · Content Creation · Copywriting · Lead Generation**
+
+</td>
+
+<td width="40%" valign="top">
+
+### ✈️ My Journey
+
+**Digital Marketing**  
+↓  
+**Aircraft Design Training**  
+↓  
+**Aircraft Sales & Leasing**  
+↓  
+**Aviation Marketing & Sourcing**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+I later completed a **certification program in aircraft design**, developing a foundational understanding of aircraft design and the technical principles behind aircraft.
+
+I subsequently focused my professional career on the **commercial aircraft sales and leasing market**, where I have spent approximately five years developing industry relationships, researching aircraft opportunities, and building a network across both sides of the market.
+
+Today, my work focuses on:
+
+> **Aircraft Sales · Acquisition · Leasing · Aircraft Sourcing · Targeted Aviation Marketing**
+
+---
 What I Do
 Aircraft Sales & Acquisition
 Aircraft Leasing
