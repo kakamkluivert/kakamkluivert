@@ -5,9 +5,53 @@
 </div>
 
 <br>
-Kakam Kluivert
-Aircraft Sales & Leasing Professional | Digital Marketing Strategist
-Aviation-focused digital marketing and aircraft sourcing professional connecting commercial aircraft opportunities with qualified buyers, sellers, lessors, and lessees.
+<div align="center">
+
+<h1>Kakam Kluivert</h1>
+
+<h3>Aircraft Sales & Leasing Professional</h3>
+
+<p><strong>Digital Marketing Strategist</strong></p>
+
+<p>
+Aviation-focused digital marketing and aircraft sourcing professional
+connecting commercial aircraft opportunities with qualified buyers,
+sellers, lessors, and lessees.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/kakamkluivert">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1F33?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=B89B5E">
+</a>
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td align="center">
+<a href="mailto:kakam@aeroonlinemedia.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1F33?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=B89B5E">
+</a>
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td align="center">
+<a href="https://wa.me/237621358870">
+<img src="https://img.shields.io/badge/WHATSAPP-LET'S_TALK-0B1F33?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&labelColor=B89B5E">
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
 
 About Me
 I am an Aircraft Sales & Leasing Professional with a professional background in digital marketing strategy and advertising, specializing my marketing expertise in the aviation industry.
