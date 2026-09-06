@@ -419,52 +419,187 @@ My aviation knowledge is supported by formal training in **aircraft design** and
 
 ---
 
-My Professional Philosophy
-I believe aircraft transactions are ultimately about relationships, trust, communication, and finding the right counterparties.
+## My Professional Philosophy
+
+I believe aircraft transactions are ultimately about **relationships, trust, communication and finding the right counterparties**.
 
 The aircraft itself is only one part of the equation.
 
-A successful opportunity also requires identifying:
+<table align="center">
+<tr>
 
-The right aircraft.
-The right buyer or lessee.
-The right seller or lessor.
-The right decision-maker.
-And the right channel of communication.
+<td align="center" width="20%">
 
-My role is to help bring these elements together through targeted marketing, market research, relationship building, and opportunity sourcing.
+### ✈️
+**RIGHT<br>AIRCRAFT**
 
-Areas of Interest
-I continuously follow developments and opportunities related to:
+</td>
 
-Commercial Aircraft Sales
-Aircraft Acquisition
-Aircraft Leasing
-Dry Leasing
-ACMI
-Aircraft Remarketing
-Aircraft Market Intelligence
-Aviation Investment
-Commercial Aviation
-Freighter Aircraft
-Aviation Business Development
-Digital Marketing in Aviation
-About Aero Online Media
+<td align="center" width="20%">
+
+### →
+**RIGHT<br>PEOPLE**
+
+</td>
+
+<td align="center" width="20%">
+
+### →
+**RIGHT<br>DECISION-MAKER**
+
+</td>
+
+<td align="center" width="20%">
+
+### →
+**RIGHT<br>CONNECTION**
+
+</td>
+
+<td align="center" width="20%">
+
+### →
+**RIGHT<br>OPPORTUNITY**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+My role is to help bring these elements together through:
+
+**Targeted Marketing · Market Research · Relationship Building · Opportunity Sourcing · Business Development**
+
+---
+
+## Areas of Interest
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AIRCRAFT%20SALES-0B1F33?style=for-the-badge">
+<img src="https://img.shields.io/badge/AIRCRAFT%20ACQUISITION-0B1F33?style=for-the-badge">
+<img src="https://img.shields.io/badge/AIRCRAFT%20LEASING-0B1F33?style=for-the-badge">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DRY%20LEASING-0B1F33?style=for-the-badge">
+<img src="https://img.shields.io/badge/ACMI-0B1F33?style=for-the-badge">
+<img src="https://img.shields.io/badge/AIRCRAFT%20REMARKETING-0B1F33?style=for-the-badge">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AVIATION%20INVESTMENT-0B1F33?style=for-the-badge">
+<img src="https://img.shields.io/badge/MARKET%20INTELLIGENCE-0B1F33?style=for-the-badge">
+<img src="https://img.shields.io/badge/AVIATION%20BUSINESS%20DEVELOPMENT-0B1F33?style=for-the-badge">
+
+</p>
+
+---
+## About Aero Online Media
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+### ✈️ Aero Online Media
+
+**Aviation-focused marketing & business development**
+
 Aero Online Media is my aviation-focused business initiative, built around the application of digital marketing and business development principles to the aircraft sales and leasing market.
 
-The objective is to help aviation companies and aircraft owners reach relevant and qualified market participants through targeted, relationship-driven marketing.
+The objective is to help aviation companies and aircraft owners reach **relevant and qualified market participants through targeted, relationship-driven marketing**.
 
-Let's Connect
-I am always interested in connecting with aviation professionals, aircraft owners, sellers, lessors, airlines, investors, buyers, and other industry participants.
+</td>
 
-If you are involved in aircraft sales, aircraft acquisition, leasing, aviation investment, or aviation marketing, I would be happy to connect.
+<td width="35%" align="center" valign="middle">
 
-LinkedIn: linkedin.com/in/kakamkluivert
+### 🎯
 
-Email: kakam@aeroonlinemedia.com
+**TARGETED**
 
-Email: kakamkluivert@yahoo.com
+### 🤝
 
-WhatsApp: +237 621 358 870
+**RELATIONSHIP-DRIVEN**
 
-Aircraft Sales & Leasing | Aviation Marketing | Aircraft Sourcing | Business Development | Market Intelligence
+### 🌍
+
+**GLOBAL**
+
+</td>
+
+</tr>
+</table>
+
+---
+## Let's Connect
+
+<div align="center">
+
+### ✈️ Have an Aircraft Opportunity?
+
+**Looking to sell, acquire or lease an aircraft?**
+
+**Let's connect.**
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/kakamkluivert">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1F33?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=B89B5E">
+</a>
+
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td align="center">
+
+<a href="mailto:kakam@aeroonlinemedia.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1F33?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=B89B5E">
+</a>
+
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td align="center">
+
+<a href="https://wa.me/237621358870">
+<img src="https://img.shields.io/badge/WHATSAPP-LET'S%20TALK-0B1F33?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&labelColor=B89B5E">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+**kakam@aeroonlinemedia.com**
+
+**kakamkluivert@yahoo.com**
+
+**WhatsApp: +237 621 358 870**
+
+<br>
+
+---
+
+### Aircraft Sales & Leasing
+### Aviation Marketing
+### Aircraft Sourcing
+### Business Development
+### Market Intelligence
+
+<br>
+
+**RIGHT AIRCRAFT  |  RIGHT PEOPLE  |  RIGHT OPPORTUNITY**
+
+</div>
