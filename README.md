@@ -351,6 +351,26 @@ My aviation knowledge is supported by formal training in **aircraft design** and
 
 ---
 
+## 🎓 Professional Certification
+
+<div align="center">
+
+<h3>Aircraft Design Certification</h3>
+
+<p>
+Formal training in aircraft design and the technical principles behind aircraft.
+</p>
+
+<p>
+<a href="./Aircraft Design Certification.pdf">
+View Certificate
+</a>
+</p>
+
+</div>
+
+---
+
 ## Aviation Market Intelligence
 
 <div align="center">
