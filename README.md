@@ -353,80 +353,59 @@ My aviation knowledge is supported by formal training in **aircraft design** and
 
 ## My Professional Philosophy
 
-I believe aircraft transactions are ultimately about **relationships, trust, communication and finding the right counterparties**.
+<div align="center">
 
-The aircraft itself is only one part of the equation.
+### **The aircraft is only one part of the transaction.**
 
-<table align="center">
-<tr>
+</div>
 
-<td align="center" width="20%">
+Successful aircraft transactions depend on more than identifying an aircraft.
 
-### 
-**RIGHT<br>AIRCRAFT**
+They require:
 
-</td>
+<div align="center">
 
-<td align="center" width="20%">
+| ✈️ | 🤝 | 🎯 | 📞 |
+|:---:|:---:|:---:|:---:|
+| **Right Aircraft** | **Right Counterparty** | **Right Decision-Maker** | **Right Communication** |
 
-### →
-**RIGHT<br>PEOPLE**
+</div>
 
-</td>
+I believe the value I bring is not simply in introducing another intermediary.
 
-<td align="center" width="20%">
+It is in **identifying the right opportunity, finding the right counterparty, and facilitating a meaningful connection between them**.
 
-### →
-**RIGHT<br>DECISION-MAKER**
+My approach is built around:
 
-</td>
-
-<td align="center" width="20%">
-
-### →
-**RIGHT<br>CONNECTION**
-
-</td>
-
-<td align="center" width="20%">
-
-### →
-**RIGHT<br>OPPORTUNITY**
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-My role is to help bring these elements together through:
-
-**Targeted Marketing · Market Research · Relationship Building · Opportunity Sourcing · Business Development**
+**Relationships • Trust • Communication • Market Research • Targeted Marketing**
 
 ---
 
 ## Areas of Interest
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/AIRCRAFT%20SALES-0B1F33?style=for-the-badge">
-<img src="https://img.shields.io/badge/AIRCRAFT%20ACQUISITION-0B1F33?style=for-the-badge">
-<img src="https://img.shields.io/badge/AIRCRAFT%20LEASING-0B1F33?style=for-the-badge">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/DRY%20LEASING-0B1F33?style=for-the-badge">
-<img src="https://img.shields.io/badge/ACMI-0B1F33?style=for-the-badge">
-<img src="https://img.shields.io/badge/AIRCRAFT%20REMARKETING-0B1F33?style=for-the-badge">
+<img src="https://img.shields.io/badge/AIRCRAFT%20SALES-0B1F33?style=for-the-badge" alt="Aircraft Sales">
+<img src="https://img.shields.io/badge/AIRCRAFT%20ACQUISITION-0B1F33?style=for-the-badge" alt="Aircraft Acquisition">
+<img src="https://img.shields.io/badge/AIRCRAFT%20LEASING-0B1F33?style=for-the-badge" alt="Aircraft Leasing">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AVIATION%20INVESTMENT-0B1F33?style=for-the-badge">
-<img src="https://img.shields.io/badge/MARKET%20INTELLIGENCE-0B1F33?style=for-the-badge">
-<img src="https://img.shields.io/badge/AVIATION%20BUSINESS%20DEVELOPMENT-0B1F33?style=for-the-badge">
+<img src="https://img.shields.io/badge/DRY%20LEASING-0B1F33?style=for-the-badge" alt="Dry Leasing">
+<img src="https://img.shields.io/badge/ACMI-0B1F33?style=for-the-badge" alt="ACMI">
+<img src="https://img.shields.io/badge/AIRCRAFT%20REMARKETING-0B1F33?style=for-the-badge" alt="Aircraft Remarketing">
 
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/AVIATION%20INVESTMENT-0B1F33?style=for-the-badge" alt="Aviation Investment">
+<img src="https://img.shields.io/badge/MARKET%20INTELLIGENCE-0B1F33?style=for-the-badge" alt="Market Intelligence">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AVIATION%20BUSINESS%20DEVELOPMENT-0B1F33?style=for-the-badge" alt="Aviation Business Development">
+<img src="https://img.shields.io/badge/AVIATION%20MARKETING-0B1F33?style=for-the-badge" alt="Aviation Marketing">
+
+</div>
 
 ---
 ## About Aero Online Media
