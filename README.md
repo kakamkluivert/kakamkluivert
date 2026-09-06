@@ -234,6 +234,60 @@ My objective is to facilitate connections between **appropriate counterparties a
 
 ---
 
+## 🌍 Global Aircraft Leasing Network
+
+<p align="center">
+
+<b>12+</b> Leasing Companies &nbsp; • &nbsp;
+<b>80+</b> Commercial Aircraft &nbsp; • &nbsp;
+<b>Global</b> Market Access
+
+</p>
+
+<p align="center">
+I maintain access to a global network of aircraft leasing companies representing a combined portfolio of <b>80+ commercial aircraft</b>.
+</p>
+
+<p align="center">
+Through established relationships within the leasing market, I receive aircraft availability updates when aircraft are approaching lease expiry, coming off lease, or becoming available for a new operator. This enables me to identify suitable opportunities and introduce qualified airlines, operators, and aviation clients.
+</p>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### Aircraft Availability
+
+Access to commercial aircraft opportunities as they become available from leasing companies.
+
+</td>
+
+<td align="center" width="33%">
+
+### Direct Availability Updates
+
+Receive availability notifications from leasing companies regarding aircraft coming off lease or entering the market.
+
+</td>
+
+<td align="center" width="33%">
+
+### Client Matching
+
+Connecting suitable aircraft opportunities with qualified airlines, operators and aviation investors.
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+<i>Aircraft availability is subject to lessor requirements, mandates, market conditions and transaction terms.</i>
+</p>
+
+---
+
 ## A Direct & Principal-Focused Approach
 
 Aircraft transactions can sometimes involve multiple layers of intermediaries, making communication, pricing, and coordination more complicated.
