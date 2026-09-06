@@ -380,51 +380,19 @@ I now apply these skills specifically to the aviation industry, using marketing 
 
 ## Aviation Knowledge & Focus
 
-My professional focus is on the **commercial aircraft market**, particularly aircraft sales, acquisition, leasing and targeted marketing.
+My professional focus is on the **commercial aircraft market**, particularly aircraft sales, acquisition, leasing, and targeted marketing.
 
-<table>
-<tr>
+### Airbus
 
-<td width="33%" valign="top">
+`A320 Family` · `A321 Family` · `A330 Family` · `A350 Family`
 
-### AIRBUS
+### Boeing
 
-**A320 Family**
+`737 Family` · `747 Freighter` · `777 Freighter`
 
-**A321 Family**
+### Regional & Other Aircraft
 
-**A330 Family**
-
-**A350 Family**
-
-</td>
-
-<td width="33%" valign="top">
-
-### BOEING
-
-**737 Family**
-
-**747 Freighter**
-
-**777 Freighter**
-
-</td>
-
-<td width="33%" valign="top">
-
-### REGIONAL & OTHER
-
-**Embraer E-Jets**
-
-**Passenger Aircraft**
-
-**Freighter Aircraft**
-
-</td>
-
-</tr>
-</table>
+`Embraer E-Jets` · `Passenger Aircraft` · `Freighter Aircraft`
 
 <br>
 
