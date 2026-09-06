@@ -176,53 +176,32 @@ Following aircraft availability, fleet requirements, leasing trends, and commerc
 ---
 ## My Approach to Aircraft Marketing
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### TARGETED
+### The objective is not simply exposure.
 
-I identify the companies, investors, airlines, lessors, lessees and decision-makers who may have a genuine interest in a particular aircraft opportunity.
+### It is **relevant exposure to the right people.**
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+I take a targeted, relationship-driven, and discreet approach to aircraft marketing.
 
-### RELATIONSHIP-DRIVEN
+Rather than relying primarily on public aircraft listings and waiting for potential buyers or lessees to discover an opportunity, I focus on identifying companies, airlines, investors, lessors, lessees, and decision-makers who may have a genuine interest in the specific aircraft.
 
-Rather than relying solely on public listings, I leverage industry relationships and direct communication to reach relevant market participants.
+When an aircraft becomes available, I research the market, identify relevant counterparties, and present the opportunity directly where appropriate.
 
-</td>
-</tr>
+This approach is particularly valuable in the aircraft market, where owners and lessors may prefer their aircraft availability to remain confidential.
 
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### DISCREET
+| **01 — IDENTIFY** | **02 — MATCH** | **03 — CONNECT** |
+|:---:|:---:|:---:|
+| ✈️ | 🎯 | 🤝 |
+| Right aircraft opportunity | Right counterparty | Right decision-maker |
 
-Where owners or lessors prefer confidentiality, I focus on targeted exposure rather than broad public advertising.
+</div>
 
-</td>
-
-<td width="50%" valign="top">
-
-### RELEVANT
-
-The objective is not simply to generate exposure for an aircraft, but to place the opportunity in front of the **right people**.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-> ### **I don't simply create exposure for an aircraft.**
->
-> ### **I create relevant exposure among the right people.**
-
-My objective is to identify the right market participants, approach them directly and present opportunities that genuinely match their requirements.
-
-This approach is particularly suited to the aircraft market, where owners and lessors may prefer their aircraft availability to remain **confidential rather than publicly advertised**.
+> **My objective:** identify the right opportunity, find the right counterparty, and facilitate the right connection.
 
 ---
 ## Buyer & Investor Network
