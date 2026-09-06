@@ -398,7 +398,7 @@ My professional focus is on the **commercial aircraft market**, particularly air
 
 I regularly follow developments involving aircraft availability, fleet strategies, leasing activity, aircraft values, airline expansion and commercial aviation trends.
 
-My aviation knowledge is supported by formal training in **aircraft design** and years of practical exposure to the aircraft sales and leasing market.
+My aviation knowledge is supported by formal training in **aircraft design** and **five years** of practical exposure to the aircraft sales and leasing market.
 
 ---
 
