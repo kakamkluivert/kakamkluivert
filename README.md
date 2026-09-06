@@ -21,35 +21,25 @@ sellers, lessors, and lessees.
 
 <br>
 
-<table align="center">
-<tr>
+<p align="center">
 
-<td align="center">
 <a href="https://www.linkedin.com/in/kakamkluivert">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1F33?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=B89B5E">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-</td>
 
-<td>&nbsp;&nbsp;</td>
+&nbsp;&nbsp;
 
-<td align="center">
 <a href="mailto:kakam@aeroonlinemedia.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1F33?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=B89B5E">
+  <img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-</td>
 
-<td>&nbsp;&nbsp;</td>
+&nbsp;&nbsp;
 
-<td align="center">
 <a href="https://wa.me/237621358870">
-<img src="https://img.shields.io/badge/WHATSAPP-LET'S_TALK-0B1F33?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&labelColor=B89B5E">
+  <img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-</td>
 
-</tr>
-</table>
-
-</div>
+</p>
 
 ---
 
@@ -546,39 +536,26 @@ The objective is to help aviation companies and aircraft owners reach **relevant
 
 <br>
 
-<table align="center">
-<tr>
-
-<td align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/kakamkluivert">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1F33?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=B89B5E">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-</td>
-
-<td>&nbsp;&nbsp;</td>
-
-<td align="center">
+&nbsp;&nbsp;
 
 <a href="mailto:kakam@aeroonlinemedia.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1F33?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=B89B5E">
+  <img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</td>
-
-<td>&nbsp;&nbsp;</td>
-
-<td align="center">
+&nbsp;&nbsp;
 
 <a href="https://wa.me/237621358870">
-<img src="https://img.shields.io/badge/WHATSAPP-LET'S%20TALK-0B1F33?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&labelColor=B89B5E">
+  <img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
-</td>
+</p>
 
-</tr>
-</table>
 
 <br>
 
