@@ -145,9 +145,9 @@ Researching the market to identify aircraft that match specific acquisition, lea
 
 <td align="center" width="50%">
 
-### Aviation Marketing
+### Aircraft Financing
 
-Using targeted digital marketing and industry relationships to bring aircraft opportunities to relevant market participants.
+Connecting Aviation companies looking to purchase airplanes to financing companies who can assist with financing
 
 </td>
 </tr>
@@ -500,6 +500,8 @@ Connect aircraft buyers to Financing companies.
 
 </div>
 
+---
+
 ## My Professional Philosophy
 
 <div align="center">
@@ -644,7 +646,7 @@ The objective is to help aviation companies and aircraft owners reach **relevant
 ### Aircraft Sales & Leasing
 ### Aircraft Sourcing
 ### Business Development
-### Market Intelligence
+### Aircraft Financing
 
 <br>
 
