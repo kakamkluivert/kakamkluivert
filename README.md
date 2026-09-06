@@ -113,87 +113,65 @@ Today, my work focuses on:
 ---
 ## What I Do
 
+<div align="center">
+
 <table>
 <tr>
+<td align="center" width="50%">
 
-<td width="50%" valign="top">
+### Aircraft Sales & Acquisition
 
-###  Aircraft Sales & Acquisition
-
-Connecting qualified aircraft buyers with suitable aircraft opportunities while helping sellers reach relevant market participants.
-
-</td>
-
-<td width="50%" valign="top">
-
-###  Aircraft Leasing
-
-Supporting airlines, operators and aviation companies in identifying suitable leasing opportunities and potential lessors.
+Helping identify suitable commercial aircraft opportunities for buyers, operators, investors, and aviation companies.
 
 </td>
 
+<td align="center" width="50%">
+
+### Aircraft Leasing
+
+Supporting aircraft leasing requirements across dry lease and other commercial aviation arrangements.
+
+</td>
 </tr>
 
 <tr>
+<td align="center" width="50%">
 
-<td width="50%" valign="top">
+### Aircraft Opportunity Sourcing
 
-###  Aircraft Opportunity Sourcing
-
-Researching the market to identify aircraft that match specific acquisition, leasing or fleet requirements.
-
-</td>
-
-<td width="50%" valign="top">
-
-###  Targeted Aviation Marketing
-
-Using digital marketing, targeted outreach and industry relationships to put aircraft opportunities in front of relevant decision-makers.
+Researching the market to identify aircraft that match specific acquisition, leasing, and operational requirements.
 
 </td>
 
+<td align="center" width="50%">
+
+### Aviation Marketing
+
+Using targeted digital marketing and industry relationships to bring aircraft opportunities to relevant market participants.
+
+</td>
 </tr>
 
 <tr>
+<td align="center" width="50%">
 
-<td width="50%" valign="top">
+### Buyer & Seller Networking
 
-###  Buyer & Seller Networking
-
-Building connections between aircraft owners, sellers, buyers, lessors, lessees, airlines and aviation investment companies.
-
-</td>
-
-<td width="50%" valign="top">
-
-###  Aviation Market Research
-
-Monitoring aircraft availability, market developments, fleet strategies and commercial aviation opportunities.
+Connecting appropriate buyers, sellers, lessors, lessees, investors, and aviation professionals.
 
 </td>
 
-</tr>
+<td align="center" width="50%">
 
-<tr>
+### Market Intelligence
 
-<td width="50%" valign="top">
-
-###  Business Development
-
-Identifying potential partnerships and commercial opportunities across the aviation ecosystem.
+Following aircraft availability, fleet requirements, leasing trends, and commercial aviation market developments.
 
 </td>
-
-<td width="50%" valign="top">
-
-###  Confidential Aircraft Marketing
-
-Supporting discreet aircraft marketing where owners or lessors prefer targeted exposure rather than broad public advertising.
-
-</td>
-
 </tr>
 </table>
+
+</div>
 
 ---
 ## My Approach to Aircraft Marketing
