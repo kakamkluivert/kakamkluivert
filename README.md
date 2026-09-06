@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./kakam-kluivert-banner.png" width="100%" alt="Kakam Kluivert - Aircraft Sales & Leasing Professional">
+<img src="kakam-kluivert-banner.png" alt="Kakam Kluivert - Aircraft Sales & Leasing Professional" width="100%">
 
 </div>
 
