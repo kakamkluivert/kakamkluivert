@@ -206,7 +206,7 @@ This approach is particularly valuable in the aircraft market, where owners and 
 ---
 ## Buyer & Investor Network
 
-Over the years, I have developed relationships with qualified aircraft buyers, aviation companies, investors, operators, and other market participants monitoring commercial aircraft opportunities.
+Over the past **five years**, I have developed relationships with qualified aircraft buyers, aviation companies, investors, operators, and other market participants monitoring commercial aircraft opportunities.
 
 ### My network includes:
 
