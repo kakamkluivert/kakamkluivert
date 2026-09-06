@@ -230,6 +230,7 @@ Over the past **five years**, I have developed relationships with qualified airc
 
 </div>
 
+<br><br>
 My objective is to facilitate connections between **appropriate counterparties and genuine aircraft opportunities**.
 
 ---
