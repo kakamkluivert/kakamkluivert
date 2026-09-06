@@ -421,6 +421,85 @@ I continuously monitor developments across the commercial aviation market to ide
 
 ---
 
+## Professional Capabilities
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### **Aircraft Sourcing**
+
+Identifying aircraft matching specific requirements.
+
+</td>
+
+<td align="center" width="25%">
+
+### **Deal Networking**
+
+Connecting relevant aviation counterparties.
+
+</td>
+
+<td align="center" width="25%">
+
+### **Aircraft Marketing**
+
+Targeted and discreet aircraft marketing.
+
+</td>
+
+<td align="center" width="25%">
+
+### **Market Research**
+
+Researching aircraft and aviation markets.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### **Aircraft Sales**
+
+Supporting aircraft sale opportunities.
+
+</td>
+
+<td align="center" width="25%">
+
+### **Aircraft Leasing**
+
+Supporting commercial leasing requirements.
+
+</td>
+
+<td align="center" width="25%">
+
+### **Business Development**
+
+Developing aviation relationships and opportunities.
+
+</td>
+
+<td align="center" width="25%">
+
+### **Aircraft Finanacing**
+
+Connect aircraft buyers to Financing companies.
+</td>
+</tr>
+</table>
+
+</div>
+
 ## My Professional Philosophy
 
 <div align="center">
@@ -473,7 +552,7 @@ My approach is built around:
 <br><br>
 
 <img src="https://img.shields.io/badge/AVIATION%20BUSINESS%20DEVELOPMENT-0B1F33?style=for-the-badge" alt="Aviation Business Development">
-<img src="https://img.shields.io/badge/AVIATION%20MARKETING-0B1F33?style=for-the-badge" alt="Aviation Marketing">
+<img src="https://img.shields.io/badge/AIRCRAFT%20FINANCING-0B1F33?style=for-the-badge" alt="Aircraft Financing">
 
 </div>
 
