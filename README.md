@@ -502,25 +502,25 @@ Aero Online Media is my aviation-focused business initiative, built around the a
 The objective is to help aviation companies and aircraft owners reach **relevant and qualified market participants through targeted, relationship-driven marketing**.
 
 </td>
+</tr>
+</table>
+
 
 <td width="35%" align="center" valign="middle">
 
-### 🎯
+###
 
-**TARGETED**
+**TARGETED 🎯**
 
-### 🤝
+###
 
-**RELATIONSHIP-DRIVEN**
+**RELATIONSHIP-DRIVEN 🤝**
 
-### 🌍
+###
 
-**GLOBAL**
+**GLOBAL 🌍**
 
 </td>
-
-</tr>
-</table>
 
 ---
 
