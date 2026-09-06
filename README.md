@@ -187,7 +187,7 @@ Supporting discreet aircraft marketing where owners or lessors prefer targeted e
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 TARGETED
+### TARGETED
 
 I identify the companies, investors, airlines, lessors, lessees and decision-makers who may have a genuine interest in a particular aircraft opportunity.
 
@@ -195,7 +195,7 @@ I identify the companies, investors, airlines, lessors, lessees and decision-mak
 
 <td width="50%" valign="top">
 
-### 🤝 RELATIONSHIP-DRIVEN
+### RELATIONSHIP-DRIVEN
 
 Rather than relying solely on public listings, I leverage industry relationships and direct communication to reach relevant market participants.
 
@@ -205,7 +205,7 @@ Rather than relying solely on public listings, I leverage industry relationships
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 DISCREET
+### DISCREET
 
 Where owners or lessors prefer confidentiality, I focus on targeted exposure rather than broad public advertising.
 
@@ -213,7 +213,7 @@ Where owners or lessors prefer confidentiality, I focus on targeted exposure rat
 
 <td width="50%" valign="top">
 
-### 🎯 RELEVANT
+### RELEVANT
 
 The objective is not simply to generate exposure for an aircraft, but to place the opportunity in front of the **right people**.
 
@@ -234,7 +234,7 @@ This approach is particularly suited to the aircraft market, where owners and le
 ---
 ## Buyer & Investor Network
 
-### 🌍 Connecting Both Sides of the Market
+### Connecting Both Sides of the Market
 
 <table>
 <tr>
@@ -338,19 +338,19 @@ Through platforms such as **Fiverr and Upwork**, I worked with businesses on the
 
 <td width="50%" valign="top">
 
-- 🎯 Digital Marketing Strategy
-- 📢 Advertising
-- 👥 Audience Targeting
-- 📈 Lead Generation
+- Digital Marketing Strategy
+- Advertising
+- Audience Targeting
+- Lead Generation
 
 </td>
 
 <td width="50%" valign="top">
 
-- ✍️ Content Creation
-- 📝 Copywriting
-- 📱 Social Media Marketing
-- 🏷️ Brand Positioning
+- Content Creation
+- Copywriting
+- Social Media Marketing
+- Brand Positioning
 
 </td>
 
@@ -372,7 +372,7 @@ My professional focus is on the **commercial aircraft market**, particularly air
 
 <td width="33%" valign="top">
 
-### ✈️ AIRBUS
+### AIRBUS
 
 **A320 Family**
 
@@ -386,7 +386,7 @@ My professional focus is on the **commercial aircraft market**, particularly air
 
 <td width="33%" valign="top">
 
-### 🛫 BOEING
+### BOEING
 
 **737 Family**
 
@@ -398,7 +398,7 @@ My professional focus is on the **commercial aircraft market**, particularly air
 
 <td width="33%" valign="top">
 
-### 🌍 REGIONAL & OTHER
+### REGIONAL & OTHER
 
 **Embraer E-Jets**
 
@@ -430,7 +430,7 @@ The aircraft itself is only one part of the equation.
 
 <td align="center" width="20%">
 
-### ✈️
+### 
 **RIGHT<br>AIRCRAFT**
 
 </td>
@@ -504,7 +504,7 @@ My role is to help bring these elements together through:
 
 <td width="65%" valign="top">
 
-### ✈️ Aero Online Media
+###  Aero Online Media
 
 **Aviation-focused marketing & business development**
 
@@ -538,7 +538,7 @@ The objective is to help aviation companies and aircraft owners reach **relevant
 
 <div align="center">
 
-### ✈️ Have an Aircraft Opportunity?
+### Have an Aircraft Opportunity?
 
 **Looking to sell, acquire or lease an aircraft?**
 
