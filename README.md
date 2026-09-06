@@ -330,9 +330,6 @@ The appropriate decision-makers
 </tr>
 </table>
 
-By working toward direct communication between the appropriate parties, I aim to reduce unnecessary intermediary layers and help create a more transparent and efficient process.
-
-
 <br>
 
 By working toward direct communication between the appropriate parties, I aim to reduce unnecessary intermediary layers and help create a more transparent and efficient process.
