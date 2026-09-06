@@ -59,16 +59,41 @@ This experience gave me a strong foundation in:
 
 </td>
 
-<td width="40%" valign="top">
+</tr>
+</table>
 
-###  My Journey
+## My Journey
 
-**Digital Marketing**  
-↓  
-**Aircraft Design Training**  
-↓  
-**Aircraft Sales & Leasing**  
-↓  
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 01
+
+**Digital Marketing**
+
+</td>
+
+<td width="25%" align="center">
+
+### 02
+
+**Aircraft Design Training**
+
+</td>
+
+<td width="25%" align="center">
+
+### 03
+
+**Aircraft Sales & Leasing**
+
+</td>
+
+<td width="25%" align="center">
+
+### 04
+
 **Aviation Marketing & Sourcing**
 
 </td>
