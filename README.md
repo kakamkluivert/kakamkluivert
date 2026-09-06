@@ -450,39 +450,57 @@ The objective is to help aviation companies and aircraft owners reach **relevant
 
 ## Let's Connect
 
-### Have an Aircraft Opportunity?
+<div align="center">
 
-**Looking to sell, acquire, or lease an aircraft?**
+# Have an Aircraft Opportunity?
 
-Let's connect.
+### Looking to sell, acquire, lease, or market an aircraft?
 
-<p align="center">
+<br>
+
+### Let's connect.
+
+<br>
 
 <a href="https://www.linkedin.com/in/kakamkluivert">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
 
 <a href="mailto:kakam@aeroonlinemedia.com">
-  <img src="https://img.shields.io/badge/Email-kakam%40aeroonlinemedia.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
 <a href="https://wa.me/237621358870">
-  <img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+<img src="https://img.shields.io/badge/WHATSAPP-LET'S%20TALK-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
-</p>
+<br><br>
+
+**kakam@aeroonlinemedia.com**
+
+**kakamkluivert@yahoo.com**
+
+**WhatsApp: +237 621 358 870**
+
+</div>
+
+---
+
+<div align="center">
+
+### Aircraft Sales & Leasing
+### Aircraft Sourcing
+### Business Development
+### Market Intelligence
 
 <br>
 
-**Email 1:**  
-kakam@aeroonlinemedia.com
+**Kakam Kluivert**
 
-**Email 2:**  
-kakamkluivert@yahoo.com
+*Aircraft Sales & Leasing Professional*
 
-**WhatsApp:**  
-+237 621 358 870
+</div>
