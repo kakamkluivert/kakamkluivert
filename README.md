@@ -293,34 +293,37 @@ My goal is to facilitate connections between **appropriate counterparties and ge
 
 ## A Direct & Principal-Focused Approach
 
-Aircraft transactions can sometimes involve multiple layers of intermediaries, making communication, pricing and coordination more complicated.
+Aircraft transactions can sometimes involve multiple layers of intermediaries, making communication, pricing, and coordination more complicated.
 
-My approach is to establish relationships with **relevant principals and decision-makers whenever possible**.
+My approach is to establish relationships with **relevant principals and decision-makers whenever possible.**
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center">
 
 ### 01
+
 **IDENTIFY**
 
 The right aircraft opportunity
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
 ### 02
+
 **MATCH**
 
 The right counterparty
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
 ### 03
+
 **CONNECT**
 
 The appropriate decision-makers
@@ -329,6 +332,9 @@ The appropriate decision-makers
 
 </tr>
 </table>
+
+By working toward direct communication between the appropriate parties, I aim to reduce unnecessary intermediary layers and help create a more transparent and efficient process.
+
 
 <br>
 
