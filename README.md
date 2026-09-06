@@ -523,17 +523,16 @@ The objective is to help aviation companies and aircraft owners reach **relevant
 </table>
 
 ---
-## Let's Connect
 
-<div align="center">
+---
+
+## Let's Connect
 
 ### Have an Aircraft Opportunity?
 
-**Looking to sell, acquire or lease an aircraft?**
+**Looking to sell, acquire, or lease an aircraft?**
 
-**Let's connect.**
-
-<br>
+Let's connect.
 
 <p align="center">
 
@@ -541,13 +540,13 @@ The objective is to help aviation companies and aircraft owners reach **relevant
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-&nbsp;&nbsp;
+<br><br>
 
 <a href="mailto:kakam@aeroonlinemedia.com">
-  <img src="https://img.shields.io/badge/Email-Contact-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-kakam%40aeroonlinemedia.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-&nbsp;&nbsp;
+<br><br>
 
 <a href="https://wa.me/237621358870">
   <img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
@@ -555,27 +554,13 @@ The objective is to help aviation companies and aircraft owners reach **relevant
 
 </p>
 
-
 <br>
 
-**kakam@aeroonlinemedia.com**
+**Email 1:**  
+kakam@aeroonlinemedia.com
 
-**kakamkluivert@yahoo.com**
+**Email 2:**  
+kakamkluivert@yahoo.com
 
-**WhatsApp: +237 621 358 870**
-
-<br>
-
----
-
-### Aircraft Sales & Leasing
-### Aviation Marketing
-### Aircraft Sourcing
-### Business Development
-### Market Intelligence
-
-<br>
-
-**RIGHT AIRCRAFT  |  RIGHT PEOPLE  |  RIGHT OPPORTUNITY**
-
-</div>
+**WhatsApp:**  
++237 621 358 870
