@@ -181,51 +181,149 @@ Supporting discreet aircraft marketing where owners or lessors prefer targeted e
 </table>
 
 ---
-My Approach to Aircraft Marketing
-I take a different approach to marketing aircraft.
+## My Approach to Aircraft Marketing
 
-I do not rely primarily on publicly publishing aircraft listings across social media and waiting for potential buyers or lessees to find them.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Instead, I use a targeted, relationship-driven, and discreet marketing approach.
+### 🎯 TARGETED
 
-When an aircraft becomes available for sale or lease, I focus on identifying the companies, investors, airlines, lessors, lessees, and decision-makers within my network who may have a genuine interest in that particular opportunity.
+I identify the companies, investors, airlines, lessors, lessees and decision-makers who may have a genuine interest in a particular aircraft opportunity.
 
-I then approach the relevant parties directly and present the opportunity to them.
+</td>
 
-This approach is particularly suited to the aircraft market, where owners and lessors may prefer their aircraft availability to remain confidential rather than publicly advertised.
+<td width="50%" valign="top">
 
-My objective is therefore not simply to create exposure for an aircraft.
+### 🤝 RELATIONSHIP-DRIVEN
 
-It is to create relevant exposure among the right people.
+Rather than relying solely on public listings, I leverage industry relationships and direct communication to reach relevant market participants.
 
-Buyer & Investor Network
-Over the years, I have developed relationships with qualified aircraft buyers and aviation investment companies actively monitoring the market for commercial aircraft acquisition opportunities.
+</td>
+</tr>
 
-These relationships allow me to present suitable aircraft opportunities directly to potential buyers when the asset matches their interests and requirements.
+<tr>
+<td width="50%" valign="top">
 
-On the supply side, I maintain relationships with:
+### 🔒 DISCREET
 
-Aircraft owners
-Aircraft sellers
-Aircraft lessors
-Asset management companies
-Airlines
-Lessees
-Aircraft brokers and industry professionals
-Aviation investment companies
-Commercial aircraft buyers
-My goal is to facilitate connections between appropriate counterparties and genuine aircraft opportunities.
+Where owners or lessors prefer confidentiality, I focus on targeted exposure rather than broad public advertising.
 
-A Direct & Principal-Focused Approach
-Aircraft transactions can sometimes involve multiple layers of intermediaries, making communication, pricing, and coordination more complicated.
+</td>
 
-My approach is to establish relationships with relevant principals and decision-makers whenever possible.
+<td width="50%" valign="top">
+
+### 🎯 RELEVANT
+
+The objective is not simply to generate exposure for an aircraft, but to place the opportunity in front of the **right people**.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> ### **I don't simply create exposure for an aircraft.**
+>
+> ### **I create relevant exposure among the right people.**
+
+My objective is to identify the right market participants, approach them directly and present opportunities that genuinely match their requirements.
+
+This approach is particularly suited to the aircraft market, where owners and lessors may prefer their aircraft availability to remain **confidential rather than publicly advertised**.
+
+---
+## Buyer & Investor Network
+
+### 🌍 Connecting Both Sides of the Market
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔵 Demand Side
+
+- Qualified Aircraft Buyers
+- Airlines & Operators
+- Aviation Investment Companies
+- Lessees
+- Fleet Expansion Programs
+- Aircraft Acquisition Teams
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🟡 Supply Side
+
+- Aircraft Owners
+- Aircraft Sellers
+- Aircraft Lessors
+- Asset Management Companies
+- Aircraft Brokers
+- Aviation Industry Professionals
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+My network allows me to present suitable aircraft opportunities directly to potential buyers and aviation companies when an asset matches their interests and requirements.
+
+My goal is to facilitate connections between **appropriate counterparties and genuine aircraft opportunities**.
+
+---
+
+## A Direct & Principal-Focused Approach
+
+Aircraft transactions can sometimes involve multiple layers of intermediaries, making communication, pricing and coordination more complicated.
+
+My approach is to establish relationships with **relevant principals and decision-makers whenever possible**.
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 01
+**IDENTIFY**
+
+The right aircraft opportunity
+
+</td>
+
+<td width="33%" align="center">
+
+### 02
+**MATCH**
+
+The right counterparty
+
+</td>
+
+<td width="33%" align="center">
+
+### 03
+**CONNECT**
+
+The appropriate decision-makers
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 By working toward direct communication between the appropriate parties, I aim to reduce unnecessary intermediary layers and help create a more transparent and efficient process.
 
-I believe the value I bring is not simply in introducing another intermediary.
+> **My value is not simply in introducing another intermediary.**
+>
+> **It is in identifying the right opportunity, finding the right counterparty, and facilitating a direct connection between them.**
 
-It is in identifying the right opportunity, finding the right counterparty, and facilitating a direct connection between them.
+---
 
 Digital Marketing Background
 Before specializing in aviation, I built my professional foundation through freelance digital marketing and advertising.
