@@ -325,43 +325,99 @@ By working toward direct communication between the appropriate parties, I aim to
 
 ---
 
-Digital Marketing Background
-Before specializing in aviation, I built my professional foundation through freelance digital marketing and advertising.
+## Digital Marketing Background
 
-Through platforms such as Fiverr and Upwork, I worked with businesses on their digital marketing and advertising needs.
+Before specializing in aviation, I built my professional foundation through freelance **digital marketing and advertising**.
 
-This experience helped me develop practical skills in:
+Through platforms such as **Fiverr and Upwork**, I worked with businesses on their digital marketing and advertising needs.
 
-Digital Marketing Strategy
-Advertising
-Audience Targeting
-Lead Generation
-Content Creation
-Copywriting
-Social Media Marketing
-Brand Positioning
-Business Development
-I now apply these skills specifically to the aviation industry, using marketing principles to identify and reach highly relevant decision-makers rather than simply maximizing public exposure.
+### 📣 Core Marketing Skills
 
-Aviation Knowledge & Focus
-My professional focus is on the commercial aircraft market, particularly aircraft sales, acquisition, leasing, and targeted marketing.
+<table>
+<tr>
 
-I regularly follow market opportunities involving aircraft such as:
+<td width="50%" valign="top">
 
-Airbus
-A320 Family
-A321 Family
-A330 Family
-A350 Family
-Boeing
-737 Family
-747 Freighter
-777 Freighter
-Regional & Other Aircraft
-Embraer E-Jets
-Commercial passenger aircraft
-Freighter aircraft
-My aviation knowledge is supported by formal training in aircraft design and years of practical exposure to the aircraft sales and leasing market.
+- 🎯 Digital Marketing Strategy
+- 📢 Advertising
+- 👥 Audience Targeting
+- 📈 Lead Generation
+
+</td>
+
+<td width="50%" valign="top">
+
+- ✍️ Content Creation
+- 📝 Copywriting
+- 📱 Social Media Marketing
+- 🏷️ Brand Positioning
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+I now apply these skills specifically to the aviation industry, using marketing principles to identify and reach **highly relevant decision-makers rather than simply maximizing public exposure**.
+
+---
+
+## Aviation Knowledge & Focus
+
+My professional focus is on the **commercial aircraft market**, particularly aircraft sales, acquisition, leasing and targeted marketing.
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ✈️ AIRBUS
+
+**A320 Family**
+
+**A321 Family**
+
+**A330 Family**
+
+**A350 Family**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛫 BOEING
+
+**737 Family**
+
+**747 Freighter**
+
+**777 Freighter**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌍 REGIONAL & OTHER
+
+**Embraer E-Jets**
+
+**Passenger Aircraft**
+
+**Freighter Aircraft**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+I regularly follow developments involving aircraft availability, fleet strategies, leasing activity, aircraft values, airline expansion and commercial aviation trends.
+
+My aviation knowledge is supported by formal training in **aircraft design** and years of practical exposure to the aircraft sales and leasing market.
+
+---
 
 My Professional Philosophy
 I believe aircraft transactions are ultimately about relationships, trust, communication, and finding the right counterparties.
