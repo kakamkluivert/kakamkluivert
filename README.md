@@ -599,31 +599,35 @@ The objective is to help aviation companies and aircraft owners reach **relevant
 
 ---
 
-## Let's Connect
-
 <div align="center">
 
 # Have an Aircraft Opportunity?
 
-### Looking to sell, acquire, lease, or market an aircraft?
-
-<br>
-
 ### Let's connect.
+
+---
+
+<div align="center">
+
+### Kakam Kluivert
+
+**Aircraft Sales & Leasing Professional**
+
+*Connecting aircraft opportunities with the right people.*
 
 <br>
 
 <a href="https://www.linkedin.com/in/kakamkluivert">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br><br>
+&nbsp;
 
 <a href="mailto:kakam@aeroonlinemedia.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br><br>
+&nbsp;
 
 <a href="https://wa.me/237621358870">
 <img src="https://img.shields.io/badge/WHATSAPP-LET'S%20TALK-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
@@ -631,27 +635,6 @@ The objective is to help aviation companies and aircraft owners reach **relevant
 
 <br><br>
 
-**kakam@aeroonlinemedia.com**
-
-**kakamkluivert@yahoo.com**
-
-**WhatsApp: +237 621 358 870**
-
-</div>
-
----
-
-<div align="center">
-
-### Aircraft Sales & Leasing
-### Aircraft Sourcing
-### Business Development
-### Aircraft Financing
-
-<br>
-
-**Kakam Kluivert**
-
-*Aircraft Sales & Leasing Professional*
+**Aircraft Sales & Leasing • Aircraft Sourcing • Aviation Marketing • Market Intelligence**
 
 </div>
