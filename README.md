@@ -206,45 +206,31 @@ This approach is particularly valuable in the aircraft market, where owners and 
 ---
 ## Buyer & Investor Network
 
-### Connecting Both Sides of the Market
+Over the years, I have developed relationships with qualified aircraft buyers, aviation companies, investors, operators, and other market participants monitoring commercial aircraft opportunities.
 
-<table>
-<tr>
+### My network includes:
 
-<td width="50%" valign="top">
+<div align="center">
 
-### 🔵 Demand Side
+<img src="https://img.shields.io/badge/AIRCRAFT%20BUYERS-0B1F33?style=for-the-badge" alt="Aircraft Buyers">
+<img src="https://img.shields.io/badge/AIRLINES-0B1F33?style=for-the-badge" alt="Airlines">
+<img src="https://img.shields.io/badge/LESSORS-0B1F33?style=for-the-badge" alt="Lessors">
 
-- Qualified Aircraft Buyers
-- Airlines & Operators
-- Aviation Investment Companies
-- Lessees
-- Fleet Expansion Programs
-- Aircraft Acquisition Teams
+<br><br>
 
-</td>
+<img src="https://img.shields.io/badge/ASSET%20MANAGERS-0B1F33?style=for-the-badge" alt="Asset Managers">
+<img src="https://img.shields.io/badge/INVESTORS-0B1F33?style=for-the-badge" alt="Aviation Investors">
+<img src="https://img.shields.io/badge/LESSEES-0B1F33?style=for-the-badge" alt="Lessees">
 
-<td width="50%" valign="top">
+<br><br>
 
-### 🟡 Supply Side
+<img src="https://img.shields.io/badge/AIRCRAFT%20SELLERS-0B1F33?style=for-the-badge" alt="Aircraft Sellers">
+<img src="https://img.shields.io/badge/BROKERS-0B1F33?style=for-the-badge" alt="Aircraft Brokers">
+<img src="https://img.shields.io/badge/AVIATION%20PROFESSIONALS-0B1F33?style=for-the-badge" alt="Aviation Professionals">
 
-- Aircraft Owners
-- Aircraft Sellers
-- Aircraft Lessors
-- Asset Management Companies
-- Aircraft Brokers
-- Aviation Industry Professionals
+</div>
 
-</td>
-
-</tr>
-</table>
-
-<br>
-
-My network allows me to present suitable aircraft opportunities directly to potential buyers and aviation companies when an asset matches their interests and requirements.
-
-My goal is to facilitate connections between **appropriate counterparties and genuine aircraft opportunities**.
+My objective is to facilitate connections between **appropriate counterparties and genuine aircraft opportunities**.
 
 ---
 
