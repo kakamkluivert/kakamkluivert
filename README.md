@@ -351,6 +351,76 @@ My aviation knowledge is supported by formal training in **aircraft design** and
 
 ---
 
+## Aviation Market Intelligence
+
+<div align="center">
+
+### 📊 What I Follow
+
+</div>
+
+I continuously monitor developments across the commercial aviation market to identify potential aircraft opportunities, changing fleet requirements, and emerging business opportunities.
+
+<table>
+<tr>
+<td width="50%">
+
+### Aircraft Market
+
+- Aircraft availability
+- Aircraft valuations
+- Aircraft sales
+- Aircraft acquisition
+- Aircraft remarketing
+- Fleet transitions
+
+</td>
+
+<td width="50%">
+
+### Leasing Market
+
+- Dry leasing
+- ACMI
+- Lease structures
+- Fleet expansion
+- Aircraft placement
+- Lessors & lessees
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Aviation Trends
+
+- Fleet renewal
+- Fuel efficiency
+- Fuel price volatility
+- SAF
+- Supply chain developments
+- Commercial aviation demand
+
+</td>
+
+<td width="50%">
+
+### Market Opportunities
+
+- Airline fleet requirements
+- Aircraft sourcing
+- Investment opportunities
+- Emerging markets
+- Capacity requirements
+- Aviation business development
+
+</td>
+</tr>
+</table>
+
+---
+
 ## My Professional Philosophy
 
 <div align="center">
